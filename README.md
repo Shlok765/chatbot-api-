@@ -17,7 +17,11 @@ A simple, fully functional chatbot built with Python and Flask that can be acces
 - pip (Python package manager)
 
 ## 🚀 Local Installation & Usage
+## 🚀 Live Chatbot
 
+Try the live chatbot here:
+
+https://chatbot-api-wa1s.onrender.com
 1. **Clone or download this repository**
 
 2. **Navigate to the project directory**
